@@ -24,3 +24,5 @@ npm run test
 ```
 npm run lint
 ```
+导航条
+下拉刷新
