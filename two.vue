@@ -36,7 +36,7 @@
             getInfo() {
                 this.$http({
                     method: "post",
-                    url: "http://www.chuanloo.com/home/information/informationList?size=4",
+                    url: "",// 获取数据的url
                     dataType: "json",
                     data: {
                         cid: 1,
@@ -68,7 +68,7 @@
           /*  getHeight() {
                 this.$http({
                     method: "post",
-                    url: "http://192.168.0.98/changlu/home/information/informationList?size=4",
+                    url: "",
                     dataType: "json",
                     data: {
                         cid: 1,
