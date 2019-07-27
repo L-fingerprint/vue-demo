@@ -1,6 +1,6 @@
-###marquee.vue
+### marquee.vue ###
 参考vant的跑马灯公告导航方式实现的一个组件，实现无缝连接，循环播放广告栏消息。
-###map.html
+### map.html ###
 主要是引用百度地图，实现的demo
 
 下拉刷新
